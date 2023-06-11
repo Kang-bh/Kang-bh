@@ -1,6 +1,8 @@
-### Hi there 👋
+## 💪 My Skills
+
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
-![Kang's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kang-BH&show_icons=true&theme=radical)
+## [Kang's GitHub stats]
+(https://github-readme-stats.vercel.app/api?username=Kang-BH&show_icons=true&theme=radical)
 
 <!--
 **Kang-bh/Kang-bh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
