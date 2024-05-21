@@ -18,9 +18,14 @@
 <!-- ![Kang's github stats](https://github-readme-stats.vercel.app/api?username=Kang-bh&show_icons=true&theme=radical) -->
 ## 📖 I’m currently learning ...
   - **recommender System**
+    
+    ![image](https://github.com/Kang-bh/Kang-bh/assets/82449613/091c51a6-2e9d-4dbd-b471-bf829c30d6c1)
   - **Django** (with Document)
-    ![image](https://github.com/Kang-bh/Kang-bh/assets/82449613/7a53772d-d6be-415f-a548-7302d9e610fb)
+
+    <img width="325" alt="image" src="https://github.com/Kang-bh/Kang-bh/assets/82449613/b4292e5b-87cd-469d-9d8b-86e8ddfcc314">
+
   - **Kafka**
-    ![image](https://github.com/Kang-bh/Kang-bh/assets/82449613/8e7ee18d-950f-4bf5-a0b4-3a6f8b265c25)
+
+    ![image](https://github.com/Kang-bh/Kang-bh/assets/82449613/e6b4932b-7d3d-44f7-950d-4bb0f90a3229)
 
 
