@@ -14,10 +14,10 @@
 ---
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/>&nbsp;<br><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 
+
 <!-- ![Kang's github stats](https://github-readme-stats.vercel.app/api?username=Kang-bh&show_icons=true&theme=radical) -->
 ## 📖 I’m currently learning ...
   - **recommender System**
-    ![image](https://github.com/Kang-bh/Kang-bh/assets/82449613/94cca8eb-aec5-438b-984d-9e51a0a01900)
   - **Django** (with Document)
     ![image](https://github.com/Kang-bh/Kang-bh/assets/82449613/7a53772d-d6be-415f-a548-7302d9e610fb)
   - **Kafka**
