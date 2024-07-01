@@ -3,7 +3,7 @@
 ## Experience
 - 2022.01 - 2022.12: The president of **HACKER** club
 - 2022.08 - 2024.02: EQBR Holdings Backend Developer
-- 
+
 
 ## 💻 STACK
 **Language & Framework**
