@@ -1,7 +1,5 @@
 <!-- ## Who AM I -->
-
-To be A developer driven by a relentless pursuit of data
-
+A developer passionate about data 
 ## Experience
 - 2022.01 - 2022.12: The president of **HACKER** club
 - 2022.08 - 2024.02: EQBR Holdings Backend Developer
