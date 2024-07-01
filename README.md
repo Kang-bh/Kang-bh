@@ -1,5 +1,7 @@
 <!-- ## Who AM I -->
 
+To be A developer driven by a relentless pursuit of data
+
 ## Experience
 - 2022.01 - 2022.12: The president of **HACKER** club
 - 2022.08 - 2024.02: EQBR Holdings Backend Developer
@@ -18,8 +20,9 @@
 
 **Tools**
 ---
-<img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/>&nbsp;<br><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 <!-- ![Kang's github stats](https://github-readme-stats.vercel.app/api?username=Kang-bh&show_icons=true&theme=radical) -->
 ## 📖 I’m currently learning ...
@@ -28,3 +31,6 @@
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black)
 
 and studying **recommender system**
+
+for more Info
+https://tough-dahlia-9aa.notion.site/aa192f20f3324f609fb0d09aa5e4657d
