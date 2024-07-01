@@ -1,14 +1,6 @@
 <!-- ## Who AM I -->
 
-![header](https://capsule-render.vercel.app/api?type=${배경타입}&color=auto&height=${높이}&section=header&text=${텍스트}&fontSize=${글자크기}&animation=${텍스트 효과})
-
-// 내 옵션
-배경타입 : waving
-높이 : 200
-텍스트 : HelloWorld!%20!
-글자크기 : 50
-텍스트효과 : twinkling
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=HelloWorld!&fontSize=50&animation=twinkling)
 
 **A developer passionate about data**
 ## Experience
@@ -38,8 +30,8 @@
 
 <h3 align="center">💡 My Most Used Languages 💡</h3>
 <p align="center">
-  <a href="https://github.com/${Kang-bh}">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=${Kang-bh}&layout=compact&show_icons=${true}&show_owner=${true}&hide_title=${true}&theme=${nord}" />
+  <a href="https://github.com/Kang-bh">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kang-bh&layout=compact&show_icons=true&show_owner=true&hide_title=true&theme=nord" />
   </a>
 </p>
 
