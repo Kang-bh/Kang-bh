@@ -6,7 +6,6 @@
 기능 개발과 운영 안정화를 함께 고민하는 백엔드 개발자입니다.
 요구사항을 API와 데이터 흐름으로 구체화하고, 운영 중 발생하는 문제를 끝까지 추적해 해결하는 일을 좋아합니다. 또한 목표와 우선순위를 먼저 맞추고, 필요한 기준을 정리하며 팀이 같은 방향으로 움직일 수 있도록 돕는 협업을 중요하게 생각합니다.
 
-**A developer passionate about data**
 ## Experience
 - 2022.01 - 2022.12: The president of **HACKER** club
 - 2022.08 - 2024.02: EQBR Holdings Backend Developer
